@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Routes</string>
+    <string name="bus_finder">Bus Finder</string>
+    <string name="bus">Bus</string>
+    <string name="train">Train</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="select_source">Select Source</string>
+    <string name="select_destination">Select Destination</string>
+    <string name="find">Find</string>
+    <string name="western_railway">Western Railway</string>
+    <string name="central_railway">Central Railway</string>
+    <string name="harbour_railway">Harbour Railway</string>
+
+</resources>

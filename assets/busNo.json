@@ -1,0 +1,22 @@
+{"buses":
+[
+{
+"busNo":"101",
+"source":"Bhiwandi",
+"destination":"Thane",
+"stops":["Bhiwandi", "Saibaba", "Mankoli", "Majiwada", "Thane"]
+},
+{
+"busNo":"102",
+"source":"Bhiwandi",
+"destination":"Kalyan",
+"stops":["Bhiwandi", "Saibaba", "Kon", "Durgadi", "Kalyan"]
+},
+{
+"busNo":"103",
+"source":"Bhiwandi",
+"destination":"Borivali",
+"stops":["Bhiwandi", "Saibaba", "Mankoli", "Majiwada", "Kasarwadavli", "Borivali"]
+}
+]
+}
